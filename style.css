@@ -231,7 +231,7 @@ h4 {
 /* FEATURES */
 .features {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 4rem;
   margin: 0 12rem;
 }
